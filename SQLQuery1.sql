@@ -1,0 +1,64 @@
+﻿CREATE DATABASE DoAn
+USE DoAn
+
+CREATE TABLE users 
+(
+	id INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+	username VARCHAR(255) UNIQUE,
+	email VARCHAR(255) NOT NULL,
+	password VARCHAR(255) NOT NULL,
+	role VARCHAR(255) NOT NULL,
+	status VARCHAR(255) NOT NULL,
+	date_register DATE NOT NULL
+)
+
+CREATE TABLE categories
+(
+	id INT PRIMARY KEY IDENTITY(1, 1) NOT NULL,
+	category VARCHAR(255) UNIQUE,
+	status VARCHAR(255) NOT NULL,
+	date_insert DATE NOT NULL
+)
+
+
+CREATE TABLE products
+(
+	id INT PRIMARY KEY IDENTITY(1, 1) NOT NULL,
+	pro_id VARCHAR(255) UNIQUE,
+	pro_name VARCHAR(255) NOT NULL,
+	category VARCHAR(255) NOT NULL,
+	price FLOAT NOT NULL,
+	stock INT NOT NULL,
+	image VARCHAR(MAX) NOT NULL,
+	status VARCHAR(255) NOT NULL,
+	date_insert DATE NOT NULL
+)
+
+
+CREATE TABLE orders
+(
+	id INT PRIMARY KEY IDENTITY(1, 1) NOT NULL,
+	customer_id INT NOT NULL,
+	prod_id VARCHAR(255) NOT NULL,
+	prod_name VARCHAR(255) NOT NULL,
+	category VARCHAR(MAX) NOT NULL,
+	regular_price FLOAT NOT NULL,
+	quantity INT NOT NULL,
+	status VARCHAR(255) NOT NULL,
+	date_oder DATE NOT NULL
+)
+
+CREATE TABLE transactions
+(
+	id INT PRIMARY KEY IDENTITY (1, 1) NOT NULL,
+	customers_id INT NOT NULL,
+	prod_id VARCHAR(255) NOT NULL,
+	total_price FLOAT NOT NULL,
+	status VARCHAR(255) NOT NULL,
+	date_trans DATE NOT NULL
+)
+
+
+
+
+SELECT * FROM products

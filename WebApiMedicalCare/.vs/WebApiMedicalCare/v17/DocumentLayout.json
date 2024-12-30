@@ -1,0 +1,1138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\THLTMCB\\WebApiMedicalCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|d:\\thltmcb\\webapimedicalcare\\clientapp\\cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|d:\\thltmcb\\webapimedicalcare\\clientapp\\cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|d:\\thltmcb\\webapimedicalcare\\clientapp\\cashierorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\cashierorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\admincustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\admincustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\webapimedicalcare.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\webapimedicalcare.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|d:\\thltmcb\\webapimedicalcare\\webapimedicalcare\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|d:\\thltmcb\\webapimedicalcare\\webapimedicalcare\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|d:\\thltmcb\\webapimedicalcare\\webapimedicalcare\\controllers\\forgotpwcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\controllers\\forgotpwcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_categories\\addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_categories\\addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|d:\\thltmcb\\webapimedicalcare\\webapimedicalcare\\models_transactions\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_transactions\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|d:\\thltmcb\\webapimedicalcare\\clientapp\\class\\cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\class\\cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|d:\\thltmcb\\webapimedicalcare\\webapimedicalcare\\models_orders\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_orders\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|d:\\thltmcb\\webapimedicalcare\\webapimedicalcare\\models_orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\adminaddcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\adminaddcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\adminaddcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\adminaddcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_otp\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_otp\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\class\\adminadduserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\class\\adminadduserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|d:\\thltmcb\\webapimedicalcare\\clientapp\\class\\adminaddproductdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\class\\adminaddproductdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\class\\adminaddcategorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\class\\adminaddcategorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_products\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_products\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|d:\\thltmcb\\webapimedicalcare\\clientapp\\admincustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\admincustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|d:\\thltmcb\\webapimedicalcare\\clientapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_products\\loiproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_products\\loiproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_categories\\loicategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_categories\\loicategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ClientApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_users\\loiuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_users\\loiuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_users\\dkuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_users\\dkuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\adminaddproducts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\adminaddproducts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\adminaddcategories.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\adminaddcategories.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\adminaddusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\adminaddusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\admincustomers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\admincustomers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_otp\\resetpw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_otp\\resetpw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_otp\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_otp\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_otp\\loiotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_otp\\loiotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\forgotpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\forgotpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\resetpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\resetpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\models_login\\loilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\models_login\\loilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|D:\\THLTMCB\\WebApiMedicalCare\\clientapp\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|D:\\THLTMCB\\WebApiMedicalCare\\webapimedicalcare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}|WebApiMedicalCare\\WebApiMedicalCare.csproj|solutionrelative:webapimedicalcare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 147,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 341,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CashierOrder.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Class\\CashierOrder.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Class\\CashierOrder.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Class\\CashierOrder.cs",
+              "RelativeToolTip": "ClientApp\\Class\\CashierOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T20:03:44.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddOrder.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Orders\\AddOrder.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Orders\\AddOrder.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Orders\\AddOrder.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Orders\\AddOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:12:50.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Controllers\\TransactionsController.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowC4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:45:09.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Transactions\\Transaction.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Transactions\\Transaction.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Transactions\\Transaction.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Transactions\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:41:46.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAwwKkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:58:24.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Orders\\Order.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Orders\\Order.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Orders\\Order.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Orders\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:52:19.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashierOrder.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\CashierOrder.cs",
+              "RelativeDocumentMoniker": "ClientApp\\CashierOrder.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\CashierOrder.cs*",
+              "RelativeToolTip": "ClientApp\\CashierOrder.cs*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAawBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:48:16.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CashierOrder.Designer.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\CashierOrder.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\CashierOrder.Designer.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\CashierOrder.Designer.cs",
+              "RelativeToolTip": "ClientApp\\CashierOrder.Designer.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAtwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:47:34.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashierOrder.cs [Design]",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\CashierOrder.cs",
+              "RelativeDocumentMoniker": "ClientApp\\CashierOrder.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\CashierOrder.cs [Design]*",
+              "RelativeToolTip": "ClientApp\\CashierOrder.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:47:25.849Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminCustomers.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminCustomers.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminCustomers.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminCustomers.cs",
+              "RelativeToolTip": "ClientApp\\AdminCustomers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:37:50.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminDashboard.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminDashboard.cs",
+              "RelativeToolTip": "ClientApp\\AdminDashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:37:44.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminAddProductData.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Class\\AdminAddProductData.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Class\\AdminAddProductData.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Class\\AdminAddProductData.cs",
+              "RelativeToolTip": "ClientApp\\Class\\AdminAddProductData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:43:25.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAADwv8IAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:38:07.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoiProduct.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Products\\LoiProduct.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Products\\LoiProduct.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Products\\LoiProduct.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Products\\LoiProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:28:48.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Products\\Product.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Products\\Product.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Products\\Product.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Products\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:28:30.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Products\\AddProduct.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Products\\AddProduct.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Products\\AddProduct.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Products\\AddProduct.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:28:13.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminAddProducts.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddProducts.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminAddProducts.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddProducts.cs",
+              "RelativeToolTip": "ClientApp\\AdminAddProducts.cs",
+              "ViewState": "AQIAAEEBAAAAAAAAAAAwwIsBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:25:07.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AdminAddProducts.Designer.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddProducts.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminAddProducts.Designer.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddProducts.Designer.cs",
+              "RelativeToolTip": "ClientApp\\AdminAddProducts.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0BAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:24:41.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminAddProducts.cs [Design]",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddProducts.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminAddProducts.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddProducts.cs [Design]",
+              "RelativeToolTip": "ClientApp\\AdminAddProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:24:34.924Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminAddCategoryData.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Class\\AdminAddCategoryData.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Class\\AdminAddCategoryData.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Class\\AdminAddCategoryData.cs",
+              "RelativeToolTip": "ClientApp\\Class\\AdminAddCategoryData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:00:57.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAYwDQBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:18:37.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoiCategory.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Categories\\LoiCategory.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Categories\\LoiCategory.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Categories\\LoiCategory.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Categories\\LoiCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:17:14.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Categories\\Category.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Categories\\Category.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Categories\\Category.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Categories\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:16:07.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddCategory.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Categories\\AddCategory.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Categories\\AddCategory.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Categories\\AddCategory.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Categories\\AddCategory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:12:50.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminAddCategories.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddCategories.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminAddCategories.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddCategories.cs",
+              "RelativeToolTip": "ClientApp\\AdminAddCategories.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAmwPQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:05:49.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AdminAddCategories.Designer.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddCategories.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminAddCategories.Designer.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddCategories.Designer.cs",
+              "RelativeToolTip": "ClientApp\\AdminAddCategories.Designer.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAvwOUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:05:18.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminAddCategories.cs [Design]",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddCategories.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminAddCategories.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddCategories.cs [Design]",
+              "RelativeToolTip": "ClientApp\\AdminAddCategories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:04:36.869Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminAddUserData.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Class\\AdminAddUserData.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Class\\AdminAddUserData.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Class\\AdminAddUserData.cs",
+              "RelativeToolTip": "ClientApp\\Class\\AdminAddUserData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:21:01.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminAddUsers.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddUsers.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminAddUsers.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddUsers.cs",
+              "RelativeToolTip": "ClientApp\\AdminAddUsers.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAowLAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:30:30.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AdminAddUsers.Designer.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddUsers.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminAddUsers.Designer.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddUsers.Designer.cs",
+              "RelativeToolTip": "ClientApp\\AdminAddUsers.Designer.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAWwJoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:27:29.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminAddUsers.cs [Design]",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddUsers.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminAddUsers.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminAddUsers.cs [Design]",
+              "RelativeToolTip": "ClientApp\\AdminAddUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:27:19.702Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AdminCustomers.Designer.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminCustomers.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminCustomers.Designer.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminCustomers.Designer.cs",
+              "RelativeToolTip": "ClientApp\\AdminCustomers.Designer.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAuwGYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:24:46.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminCustomers.cs [Design]",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminCustomers.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminCustomers.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminCustomers.cs [Design]",
+              "RelativeToolTip": "ClientApp\\AdminCustomers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:24:38.333Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminDashboard.Designer.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "ClientApp\\AdminDashboard.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwB4AAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:20:41.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AdminDashboard.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "ClientApp\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:20:32.213Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ResetPw.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_OTP\\ResetPw.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_OTP\\ResetPw.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_OTP\\ResetPw.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_OTP\\ResetPw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:31:49.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoiOTP.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_OTP\\LoiOTP.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_OTP\\LoiOTP.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_OTP\\LoiOTP.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_OTP\\LoiOTP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T00:25:16.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OTP.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_OTP\\OTP.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_OTP\\OTP.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_OTP\\OTP.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_OTP\\OTP.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T00:22:42.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgotPWController.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\ForgotPWController.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Controllers\\ForgotPWController.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\ForgotPWController.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Controllers\\ForgotPWController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAYwH4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T00:19:18.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Email.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_OTP\\Email.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_OTP\\Email.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_OTP\\Email.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_OTP\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T00:18:16.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ResetPassword.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ResetPassword.cs",
+              "RelativeDocumentMoniker": "ClientApp\\ResetPassword.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ResetPassword.cs",
+              "RelativeToolTip": "ClientApp\\ResetPassword.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAADwvzUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:55:25.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ResetPassword.Designer.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ResetPassword.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\ResetPassword.Designer.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ResetPassword.Designer.cs",
+              "RelativeToolTip": "ClientApp\\ResetPassword.Designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAawBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:55:12.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResetPassword.cs [Design]",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ResetPassword.cs",
+              "RelativeDocumentMoniker": "ClientApp\\ResetPassword.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ResetPassword.cs [Design]",
+              "RelativeToolTip": "ClientApp\\ResetPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:55:02.934Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ForgotPassword.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "ClientApp\\ForgotPassword.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ForgotPassword.cs",
+              "RelativeToolTip": "ClientApp\\ForgotPassword.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA4wDQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:50:49.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ForgotPassword.Designer.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ForgotPassword.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\ForgotPassword.Designer.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ForgotPassword.Designer.cs",
+              "RelativeToolTip": "ClientApp\\ForgotPassword.Designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAawBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:50:27.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ForgotPassword.cs [Design]",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "ClientApp\\ForgotPassword.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ForgotPassword.cs [Design]",
+              "RelativeToolTip": "ClientApp\\ForgotPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:50:19.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ClientApp",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ClientApp.csproj",
+              "RelativeDocumentMoniker": "ClientApp\\ClientApp.csproj",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\ClientApp.csproj",
+              "RelativeToolTip": "ClientApp\\ClientApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-29T21:42:32.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "ClientApp\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAASwCYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:40:07.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\App.config",
+              "RelativeDocumentMoniker": "ClientApp\\App.config",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\App.config",
+              "RelativeToolTip": "ClientApp\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-29T21:39:45.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\packages.config",
+              "RelativeDocumentMoniker": "ClientApp\\packages.config",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\packages.config",
+              "RelativeToolTip": "ClientApp\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-29T21:26:14.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA+wDIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:12:54.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LoiLogin.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Login\\LoiLogin.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Login\\LoiLogin.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Login\\LoiLogin.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Login\\LoiLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:09:28.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Login\\Login.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Login\\Login.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Login\\Login.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Login\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:08:27.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Login.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Login.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Login.cs",
+              "RelativeToolTip": "ClientApp\\Login.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAADwv6gAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:03:53.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Login.Designer.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Login.Designer.cs",
+              "RelativeToolTip": "ClientApp\\Login.Designer.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAArwFcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:02:33.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Login.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Login.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Login.cs [Design]",
+              "RelativeToolTip": "ClientApp\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:02:21.674Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:50:58.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Register.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Register.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Register.cs",
+              "RelativeToolTip": "ClientApp\\Register.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAmwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:14:23.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Register.Designer.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Register.Designer.cs",
+              "RelativeToolTip": "ClientApp\\Register.Designer.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAArwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:14:04.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Register.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Register.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\ClientApp\\Register.cs [Design]",
+              "RelativeToolTip": "ClientApp\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:13:55.777Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoiUser.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Users\\LoiUser.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Users\\LoiUser.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Users\\LoiUser.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Users\\LoiUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:40:40.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\appsettings.json",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\appsettings.json",
+              "RelativeToolTip": "WebApiMedicalCare\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T19:26:08.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Program.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Program.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:25:59.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Users\\User.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Users\\User.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Users\\User.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Users\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:24:43.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAAAN4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:20:28.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DKUser.cs",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Users\\DKUser.cs",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\Models_Users\\DKUser.cs",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\Models_Users\\DKUser.cs",
+              "RelativeToolTip": "WebApiMedicalCare\\Models_Users\\DKUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:09:45.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApiMedicalCare.csproj",
+              "DocumentMoniker": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\WebApiMedicalCare.csproj",
+              "RelativeDocumentMoniker": "WebApiMedicalCare\\WebApiMedicalCare.csproj",
+              "ToolTip": "D:\\THLTMCB\\WebApiMedicalCare\\WebApiMedicalCare\\WebApiMedicalCare.csproj",
+              "RelativeToolTip": "WebApiMedicalCare\\WebApiMedicalCare.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T18:44:33.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

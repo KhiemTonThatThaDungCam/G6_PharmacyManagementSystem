@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vVScmA93aaamWbq2WubHjFtZ0TcRyPpNNabSf4Q+Ohg=",
+  "Source": "WebApiMedicalCare",
+  "BasePath": "_content/WebApiMedicalCare",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

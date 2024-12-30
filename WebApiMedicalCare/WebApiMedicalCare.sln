@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiMedicalCare", "WebApiMedicalCare\WebApiMedicalCare.csproj", "{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "ClientApp\ClientApp.csproj", "{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF66D691-C5FC-4C9E-ADE2-B4043A2F010D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E9C9DF-BCEF-4C18-AF9C-E7A7AA7F1E90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A433714F-68FD-404D-A0A4-C5ACC4E3E68F}
+	EndGlobalSection
+EndGlobal
