@@ -1,6 +1,6 @@
 #  Pharmacy Management System
 
-![img](/logoSmall.png)
+![img_alt](https://github.com/KhiemTonThatThaDungCam/G6_PharmacyManagementSystem/blob/d68a4d1f53ae8d5648c7d1e40e43889068044929/z6182153029437_9a08d8fad307f21fd1ace3d229ceb0d0.jpg)
 
 Một ứng dụng desktop giúp quản lý và nhân viên thu ngân dễ dàng làm việc trong hệ thống cửa hàng.
 
